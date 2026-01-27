@@ -26,6 +26,12 @@ Cloud Engineer's Role: Uses Terraform to create a secure, scalable virtual serve
 DevOps Engineer's Role: Uses Jenkins to build a pipeline that automatically pulls the new code, tests it, and deploys it onto the servers the Cloud Engineer created. 
 Conclusion: The Cloud Engineer builds the house, and the DevOps Engineer builds the automated, fast-moving assembly line inside that house.
 
+Where do you want to reach?
+“I want to grow as an engineer while building a stable, comfortable, and happy life for my family.”
+
+How you will stay consistent every single day?
+“I will stay consistent by setting small daily goals, following a routine, and improving a little every day without giving up.”
+
 Why you are starting learning DevOps & Cloud?
 Learning DevOps and Cloud is widely considered a top career move in 2026 because it combines high demand, high salaries, and future-proof skills. In short, it is the modern way to build, deploy, and manage software faster and more reliably. 
 
