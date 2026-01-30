@@ -4,6 +4,9 @@
 
 **First, we verify if the SSH daemon is actually running in the background.**
 
+<img width="1422" height="265" alt="image" src="https://github.com/user-attachments/assets/01939b05-a64b-469c-a6eb-5d0f7fc7205e" />
+
+
 <img width="520" height="47" alt="image" src="https://github.com/user-attachments/assets/0e6fff72-d3a0-4d98-a2cd-649cfa9ac3b9" />
 
 <img width="1145" height="64" alt="image" src="https://github.com/user-attachments/assets/a80d1808-d9bf-4282-bf8e-ea6a6f3893ee" />
