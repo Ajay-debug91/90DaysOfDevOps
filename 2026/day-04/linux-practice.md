@@ -14,17 +14,35 @@
 
 **2. Service Checks**
 
+<img width="1239" height="609" alt="image" src="https://github.com/user-attachments/assets/c10ce354-7116-4041-853d-e4fb31021236" />
+
+
 <img width="994" height="384" alt="image" src="https://github.com/user-attachments/assets/7df2a7c1-ace7-4de5-b8e7-1855e54a8935" />
 
 <img width="902" height="48" alt="image" src="https://github.com/user-attachments/assets/ca86dff6-d661-43f6-aacd-2a531195c509" />
 
 **3. Log Checks**
 
+<img width="1600" height="548" alt="image" src="https://github.com/user-attachments/assets/141da699-e7ac-4471-a204-648f926e1682" />
+
+
 <img width="902" height="110" alt="image" src="https://github.com/user-attachments/assets/cb2a739a-05fb-4ba5-9529-c4f7b10cdb45" />
 
 <img width="1256" height="69" alt="image" src="https://github.com/user-attachments/assets/65d6e3f8-7f2d-4fad-af1a-0119b15f14c8" />
 
+**Mini Troubleshooting Steps (SSH)**
 
+Issue: Unable to connect via SSH
+
+Check if process exists → pgrep sshd
+
+Check service state → systemctl status ssh
+
+Review logs → journalctl -u ssh -n 10
+
+Restart service if needed → sudo systemctl restart ssh
+
+Verify port listening → ss -tulpn | grep :22
 
 **4. Mini Troubleshooting Steps**
 
