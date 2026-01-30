@@ -1,21 +1,20 @@
-1. What is DevOps? (The Process)
+**1. What is DevOps? (The Process)**
    
 DevOps is a cultural approach and a set of practices that bridges the gap between software developers (Dev) and IT operations (Ops).
 
 DevOps is the practice of building, deploying, monitoring, and fixing software reliably by combining development and operations skills. 
 
-2. My Current Level
+**2. My Current Level**
 
-I am a working professional (Java Developer) with around 1.5+ years of experience and 4 java Support . I have basic Linux knowledge and development background, and I am now 
-
-transitioning toward a DevOps Engineer role.
+I am a working professional (Java Developer) with over 1.5 years of experience and 4 years of Java support. I have basic Linux knowledge and development background, and I am now transitioning toward a DevOps Engineer role.
 
 
-Goal: To deliver software faster, more frequently, and with fewer errors.
+**Goal:** To deliver software faster, more frequently, and with fewer errors.
 
 Key Concept: Automation. It removes manual steps in testing, building, and deploying code. 
 
-3. What is Cloud Engineering?
+
+**3. What is Cloud Engineering?**
    
 Cloud Engineering focuses on designing, building, and managing the infrastructure on cloud platforms like AWS, Azure, or Google Cloud.
 
@@ -23,7 +22,9 @@ Goal: To ensure the environment is secure, scalable, and cost-effective.
 
 Key Concept: Infrastructure as Code (IaC). Using code to set up servers instead of manually clicking buttons. 
 
-4. Key Differences
+
+
+**4. Key Differences**
    
 
 Feature 	             DevOps Engineer	                               Cloud Engineer
@@ -36,7 +37,9 @@ Tools	                 Jenkins, GitHub Actions, Docker, Kubernetes  	 AWS, Azure
 
 Analogy	               The "Assembly Line" Operator	                   The "Factory Floor" Builder
 
-5. How They Work Together (The Real-World Scenario)
+
+
+**5. How They Work Together (The Real-World Scenario)**
 
    
 In modern companies, these roles overlap heavily (often called "Cloud DevOps"). 
@@ -51,7 +54,7 @@ Conclusion: The Cloud Engineer builds the house, and the DevOps Engineer builds 
 
 
 
-Where do you want to reach?
+**Where do you want to reach?**
 
 “I want to grow as an engineer while building a stable, comfortable, and happy life for my family.”
 
@@ -59,7 +62,7 @@ job-ready for a junior/mid-level DevOps role with hands-on proof
 
 
 
-How you will stay consistent every single day?
+**How you will stay consistent every single day?**
 
 “I will stay consistent by setting small daily goals, following a routine, and improving a little every day without giving up.”
 
@@ -73,14 +76,14 @@ Track progress weekly and adjust, not quit
 
 
 
-Why you are starting learning DevOps & Cloud?
+**Why you are starting learning DevOps & Cloud?**
 
 Learning DevOps and Cloud is widely considered a top career move in 2026 because it combines high demand, high salaries, and future-proof skills. In short, it is the modern
 
 way to build, deploy, and manage software faster and more reliably. 
 
 
-My 3 Clear Goals for the Next 90 Days
+**My 3 Clear Goals for the Next 90 Days**
 
 Deploy a production-style application on a Linux server with proper logs and monitoring
 
@@ -89,7 +92,7 @@ Build a CI/CD pipeline to automate build and deployment
 Containerize and deploy an application using Docker & Kubernetes basics
 
 
-Why I Am Learning DevOps & Cloud
+**Why I Am Learning DevOps & Cloud**
 
 I want to move from only writing code to owning applications in production
 
@@ -99,7 +102,7 @@ I want a career with continuous learning, problem-solving, and impact
 
 
 
-3 Core DevOps Skills I Will Build
+**3 Core DevOps Skills I Will Build**
 
 Linux Troubleshooting & System Fundamentals (processes, services, logs, networking)
 
@@ -108,7 +111,7 @@ CI/CD & Automation (Git, pipelines, scripting)
 Containers & Orchestration (Docker, Kubernetes basics)
 
 
-Weekly Time Commitment (Realistic Plan)
+**Weekly Time Commitment (Realistic Plan)**
 
 Weekdays: 2–2.5 hours per day (learning + hands-on practice)
 
@@ -118,6 +121,6 @@ Total: ~15–18 hours per week
 
 
 
-Final Commitment
+**Final Commitment**
 
 I will prioritize consistency over perfection. Even small daily progress, repeated for 90 days, will compound into real DevOps skills and confidence.
