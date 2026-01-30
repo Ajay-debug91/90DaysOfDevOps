@@ -63,6 +63,14 @@ How you will stay consistent every single day?
 
 “I will stay consistent by setting small daily goals, following a routine, and improving a little every day without giving up.”
 
+Study and practice at the same fixed time daily
+
+Focus on hands-on labs over theory
+
+Maintain notes and tasks in GitHub
+
+Track progress weekly and adjust, not quit
+
 
 
 Why you are starting learning DevOps & Cloud?
@@ -72,3 +80,44 @@ Learning DevOps and Cloud is widely considered a top career move in 2026 because
 way to build, deploy, and manage software faster and more reliably. 
 
 
+My 3 Clear Goals for the Next 90 Days
+
+Deploy a production-style application on a Linux server with proper logs and monitoring
+
+Build a CI/CD pipeline to automate build and deployment
+
+Containerize and deploy an application using Docker & Kubernetes basics
+
+
+Why I Am Learning DevOps & Cloud
+
+I want to move from only writing code to owning applications in production
+
+DevOps skills are highly in demand and align with real-world engineering problems
+
+I want a career with continuous learning, problem-solving, and impact
+
+
+
+3 Core DevOps Skills I Will Build
+
+Linux Troubleshooting & System Fundamentals (processes, services, logs, networking)
+
+CI/CD & Automation (Git, pipelines, scripting)
+
+Containers & Orchestration (Docker, Kubernetes basics)
+
+
+Weekly Time Commitment (Realistic Plan)
+
+Weekdays: 2–2.5 hours per day (learning + hands-on practice)
+
+Weekends: 6–8 hours (live class projects, revision, troubleshooting)
+
+Total: ~15–18 hours per week
+
+
+
+Final Commitment
+
+I will prioritize consistency over perfection. Even small daily progress, repeated for 90 days, will compound into real DevOps skills and confidence.
