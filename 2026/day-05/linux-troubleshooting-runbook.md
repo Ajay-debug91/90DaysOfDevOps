@@ -51,6 +51,11 @@ curl -I <service-endpoint>/ping I do not understand, please help me
 
 Logs :
 
+
+<img width="1338" height="227" alt="image" src="https://github.com/user-attachments/assets/8e5bd5f0-a078-4711-b343-f0197e3e6fdd" />
+
+
+
 <img width="1600" height="405" alt="image" src="https://github.com/user-attachments/assets/5fa61138-a688-4d60-9192-43ff85aa83db" />
 
 
