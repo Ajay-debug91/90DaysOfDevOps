@@ -12,9 +12,12 @@ chmod +x hello.sh
 
 ./hello.sh
 
+
 <img width="678" height="151" alt="image" src="https://github.com/user-attachments/assets/2c55553f-cb04-41cb-897c-e15a9f017b82" />
 
+
 <img width="748" height="238" alt="image" src="https://github.com/user-attachments/assets/31acc9e0-ef04-4803-a41e-ef8188943035" />
+
 
 <img width="513" height="265" alt="image" src="https://github.com/user-attachments/assets/a41445a9-8e07-404b-99ff-ae67d9269f44" />
 
@@ -29,11 +32,15 @@ A variable for your ROLE (e.g., "DevOps Engineer")
 
 Print: Hello, I am <NAME> and I am a <ROLE>
 
+
 <img width="709" height="105" alt="image" src="https://github.com/user-attachments/assets/35e318b8-e99d-4718-a871-455e161a9e0f" />
+
 
 <img width="546" height="217" alt="image" src="https://github.com/user-attachments/assets/5f499361-9159-4567-8ec7-b414bee94b80" />
 
+
 <img width="543" height="487" alt="image" src="https://github.com/user-attachments/assets/e99cd83e-a49c-465a-80ef-4cfb8c8be913" />
+
 
 Task 3: User Input with read
 
@@ -45,11 +52,15 @@ Asks for their favourite tool
 
 Prints: Hello <name>, your favourite tool is <tool>
 
+
 <img width="605" height="75" alt="image" src="https://github.com/user-attachments/assets/9f8e6239-08b4-437e-b3bb-3243bd64fbea" />
+
 
 <img width="673" height="229" alt="image" src="https://github.com/user-attachments/assets/8b13c02f-ca47-491a-91e4-418f65d583d5" />
 
+
 <img width="686" height="237" alt="image" src="https://github.com/user-attachments/assets/ff513c37-b636-46e5-97db-7299a72eb819" />
+
 
 Task 4: If-Else Conditions
 
@@ -59,9 +70,12 @@ Takes a number using read
 
 Prints whether it is positive, negative, or zero
 
+
 <img width="758" height="126" alt="image" src="https://github.com/user-attachments/assets/f30f0e4e-6b80-4298-b596-0f889942284b" />
 
+
 <img width="527" height="295" alt="image" src="https://github.com/user-attachments/assets/d541df37-ad85-4d00-888b-b86730bd6962" />
+
 
 <img width="695" height="349" alt="image" src="https://github.com/user-attachments/assets/c73bf88b-1c2f-46ca-8749-a915244c8a94" />
 
@@ -75,6 +89,38 @@ Asks for a filename
 Checks if the file exists using -f
 
 Prints appropriate message
+
+
+<img width="525" height="68" alt="image" src="https://github.com/user-attachments/assets/472ed57d-2ba3-4cab-b15c-5cd5a83a42b6" />
+
+
+<img width="515" height="234" alt="image" src="https://github.com/user-attachments/assets/2ea833ab-0224-48a9-8cea-57b308c03f58" />
+
+
+<img width="565" height="232" alt="image" src="https://github.com/user-attachments/assets/032486ab-5609-4dde-ab37-0a5b88ccb203" />
+
+
+Task 5: Combine It All
+
+Create server_check.sh that:
+
+Stores a service name in a variable (e.g., nginx, sshd)
+
+Asks the user: "Do you want to check the status? (y/n)"
+
+If y — runs systemctl status <service> and prints whether it's active or not
+
+If n — prints "Skipped."
+
+
+<img width="598" height="108" alt="image" src="https://github.com/user-attachments/assets/844004ed-80d2-4a74-bd7b-8131c6d6cb89" />
+
+
+<img width="683" height="345" alt="image" src="https://github.com/user-attachments/assets/787aaa8b-acac-4087-a68f-dd3ff4602167" />
+
+
+<img width="880" height="532" alt="image" src="https://github.com/user-attachments/assets/9b2a4a41-4748-4de7-9141-1aa49f983a57" />
+
 
 
 
