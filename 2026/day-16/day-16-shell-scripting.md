@@ -123,4 +123,14 @@ If n — prints "Skipped."
 
 
 
+Key Points (Beginner Notes)
 
+SERVICE="nginx" → service stored in variable
+
+read -p → takes user input
+
+systemctl status → shows detailed service status
+
+systemctl is-active --quiet → checks running state silently
+
+if ... else ... fi → decision making
