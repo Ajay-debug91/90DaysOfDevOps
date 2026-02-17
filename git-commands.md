@@ -103,4 +103,15 @@ git push origin main
 git pull origin main
 
 
+git checkout master
+git checkout -b master origin/master
+git merge main
+git push origin master
+git statusgit add .
+git commit -m "Merged main into master"
+git push origin master
+
+
+git branch -d main
+
 
