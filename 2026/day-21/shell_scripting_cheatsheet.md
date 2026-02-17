@@ -265,6 +265,31 @@ set -x            # Debug mode (trace commands)
 trap 'echo Cleanup; exit' EXIT
 
 
+# Shell Scripting Quick Reference Table
+
+| Topic       | Key Syntax                | Example |
+|------------ |-------------------------- |-------- |
+| Variable    | VAR="value"               | NAME="DevOps" |
+| Argument    | $0, $1, $2, $#            | ./script.sh arg1 arg2 |
+| If          | if [ condition ]; then     | if [ -f file ]; then echo "Exists"; fi |
+| For loop    | for i in list; do          | for i in 1 2 3; do echo $i; done |
+| While loop  | while [ condition ]; do    | while [ $count -lt 5 ]; do echo $count; ((count++)); done |
+| Until loop  | until [ condition ]; do    | until [ $count -ge 5 ]; do echo $count; ((count++)); done |
+| Function    | name() { ... }            | greet() { echo "Hi"; } |
+| Read input  | read var                   | read -p "Name: " NAME |
+| Exit code   | $?                        | echo $? |
+| Grep        | grep pattern file           | grep -i "error" log.txt |
+| Awk         | awk '{print $1}' file       | awk -F: '{print $1}' /etc/passwd |
+| Sed         | sed 's/old/new/g' file      | sed -i 's/foo/bar/g' config.txt |
+| Cut         | cut -d':' -f1 file          | cut -d',' -f2 file.csv |
+| Sort        | sort file                   | sort -nr file.txt |
+| Uniq        | uniq file                   | uniq -c file.txt |
+| Tr          | tr 'a-z' 'A-Z'              | echo "hello" | tr 'a-z' 'A-Z' |
+| Wc          | wc -l / wc -w / wc -c       | wc -l file.txt |
+| Head/Tail   | head -n N / tail -n N       | tail -f app.log |
+| File test   | -f, -d, -e, -r, -w, -x, -s | [ -f file ] && echo "File exists" |
+| Logical ops | &&, ||, !                   | [ -f file ] && echo "Yes" || echo "No" |
+| Case        | case ... esac               | case "$VAR" in start) echo "Start";; esac |
 
 
 
